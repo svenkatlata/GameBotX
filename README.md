@@ -22,8 +22,8 @@ covered!
 
 ## 🛠 Installation
 
-1. Invite GameBotX to your Discord server using [this link](#)
-   _(https://discord.com/oauth2/authorize?client_id=1351189280533512192&permissions=1707535384443985&integration_type=0&scope=bot)_.
+1. Invite GameBotX to your Discord server using
+   [this link](https://discord.com/oauth2/authorize?client_id=1351189280533512192&permissions=1707535384443985&integration_type=0&scope=bot).
 2. Grant necessary permissions for full functionality.
 3. Use `/help` to explore available commands!
 
